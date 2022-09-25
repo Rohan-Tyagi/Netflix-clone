@@ -1,0 +1,47 @@
+.SignIn__containers{
+    position: relative;
+    z-index: 1;
+   /* width: 50%;*/
+}
+
+.SignIn__btn{
+    text-align: center;
+    background-color: #E50914;
+    margin-top: 300px;
+    margin-left: 500px;
+    z-index: 2;
+    position: absolute;
+    font-size: 1.625rem;
+    min-height: 60px;
+    border: none;
+    min-height: 50px;
+    min-width: 74px;
+    height: 100px;
+    width: 300px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: xx-large;
+}
+
+.SignIn__text{
+    text-align: center;
+    color: #FFFFFF;
+}
+.SignIn__texts{
+    z-index: 1;
+    position: absolute;
+    margin-left: 502PX;
+    margin-top: 280PX;
+    color: #FFFFFF;
+    margin: 0px 155px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 81px;
+    background: transparent;
+}
+    
+img{
+    
+    width: 100%;
+    height: auto;
+
+  }
+  
